@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5cd7021-47c9-43d8-8ed2-564c88ff6dc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d7lvRuEUCqfqoTbhS7mPs9IUaf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5cd7021-47c9-43d8-8ed2-564c88ff6dc5" name="Default Changelist" comment="" />
+      <created>1591784242070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591784242070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="58" width="847" height="677" key="#Project_Structure" timestamp="1591784511706">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="305" y="58" width="847" height="677" key="#Project_Structure/55.27.1311.741@55.27.1311.741" timestamp="1591784511706" />
+    <state width="1311" height="183" key="GridCell.Tab.0.bottom" timestamp="1591786288401">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.bottom/55.27.1311.741@55.27.1311.741" timestamp="1591786288401" />
+    <state width="1311" height="183" key="GridCell.Tab.0.center" timestamp="1591786288400">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.center/55.27.1311.741@55.27.1311.741" timestamp="1591786288400" />
+    <state width="1311" height="183" key="GridCell.Tab.0.left" timestamp="1591786288399">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.left/55.27.1311.741@55.27.1311.741" timestamp="1591786288399" />
+    <state width="1311" height="183" key="GridCell.Tab.0.right" timestamp="1591786288400">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.right/55.27.1311.741@55.27.1311.741" timestamp="1591786288400" />
+    <state x="243" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1591784314721">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="243" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/55.27.1311.741@55.27.1311.741" timestamp="1591784314721" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1591786248443">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/55.27.1311.741@55.27.1311.741" timestamp="1591786248443" />
+    <state x="451" y="113" width="509" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591784936827">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="451" y="113" width="509" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog/55.27.1311.741@55.27.1311.741" timestamp="1591784936827" />
+    <state x="55" y="87" width="1301" height="618" key="new project wizard" timestamp="1591787343057">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="55" y="87" width="1301" height="618" key="new project wizard/55.27.1311.741@55.27.1311.741" timestamp="1591787343057" />
+    <state x="373" y="89" key="search.everywhere.popup" timestamp="1591784307344">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="373" y="89" key="search.everywhere.popup/55.27.1311.741@55.27.1311.741" timestamp="1591784307344" />
+  </component>
+</project>
