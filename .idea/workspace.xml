@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5cd7021-47c9-43d8-8ed2-564c88ff6dc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LabTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lab.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LabTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LabTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LabTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LabTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LabTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LabTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,30 +74,30 @@
       <screen x="55" y="27" width="1311" height="741" />
     </state>
     <state x="312" y="27" width="786" height="741" key="CommitChangelistDialog2/55.27.1311.741@55.27.1311.741" timestamp="1591792893264" />
-    <state width="1311" height="183" key="GridCell.Tab.0.bottom" timestamp="1591788888688">
+    <state width="1265" height="183" key="GridCell.Tab.0.bottom" timestamp="1591792957050">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.bottom/55.27.1311.741@55.27.1311.741" timestamp="1591788888688" />
-    <state width="1311" height="183" key="GridCell.Tab.0.center" timestamp="1591788888688">
+    <state width="1265" height="183" key="GridCell.Tab.0.bottom/55.27.1311.741@55.27.1311.741" timestamp="1591792957050" />
+    <state width="1265" height="183" key="GridCell.Tab.0.center" timestamp="1591792957049">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.center/55.27.1311.741@55.27.1311.741" timestamp="1591788888688" />
-    <state width="1311" height="183" key="GridCell.Tab.0.left" timestamp="1591788888687">
+    <state width="1265" height="183" key="GridCell.Tab.0.center/55.27.1311.741@55.27.1311.741" timestamp="1591792957049" />
+    <state width="1265" height="183" key="GridCell.Tab.0.left" timestamp="1591792957048">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.left/55.27.1311.741@55.27.1311.741" timestamp="1591788888687" />
-    <state width="1311" height="183" key="GridCell.Tab.0.right" timestamp="1591788888688">
+    <state width="1265" height="183" key="GridCell.Tab.0.left/55.27.1311.741@55.27.1311.741" timestamp="1591792957048" />
+    <state width="1265" height="183" key="GridCell.Tab.0.right" timestamp="1591792957049">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.right/55.27.1311.741@55.27.1311.741" timestamp="1591788888688" />
+    <state width="1265" height="183" key="GridCell.Tab.0.right/55.27.1311.741@55.27.1311.741" timestamp="1591792957049" />
     <state x="243" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1591784314721">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
     <state x="243" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/55.27.1311.741@55.27.1311.741" timestamp="1591784314721" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1591786248443">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1591792957033">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/55.27.1311.741@55.27.1311.741" timestamp="1591786248443" />
+    <state width="498" height="446" key="SwitcherDM/55.27.1311.741@55.27.1311.741" timestamp="1591792957033" />
     <state x="451" y="113" width="509" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591784936827">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
