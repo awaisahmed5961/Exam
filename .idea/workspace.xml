@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5cd7021-47c9-43d8-8ed2-564c88ff6dc5" name="Default Changelist" comment="" />
+    <list default="true" id="a5cd7021-47c9-43d8-8ed2-564c88ff6dc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LabTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lab.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LabTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LabTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LabTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LabTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LabTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LabTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1d7lvRuEUCqfqoTbhS7mPs9IUaf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -63,22 +76,26 @@
       <screen x="55" y="27" width="1311" height="741" />
     </state>
     <state x="305" y="58" width="847" height="677" key="#Project_Structure/55.27.1311.741@55.27.1311.741" timestamp="1591784511706" />
-    <state width="1311" height="183" key="GridCell.Tab.0.bottom" timestamp="1591786288401">
+    <state x="312" y="27" width="786" height="741" key="CommitChangelistDialog2" timestamp="1591792893264">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.bottom/55.27.1311.741@55.27.1311.741" timestamp="1591786288401" />
-    <state width="1311" height="183" key="GridCell.Tab.0.center" timestamp="1591786288400">
+    <state x="312" y="27" width="786" height="741" key="CommitChangelistDialog2/55.27.1311.741@55.27.1311.741" timestamp="1591792893264" />
+    <state width="1311" height="183" key="GridCell.Tab.0.bottom" timestamp="1591788888688">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.center/55.27.1311.741@55.27.1311.741" timestamp="1591786288400" />
-    <state width="1311" height="183" key="GridCell.Tab.0.left" timestamp="1591786288399">
+    <state width="1311" height="183" key="GridCell.Tab.0.bottom/55.27.1311.741@55.27.1311.741" timestamp="1591788888688" />
+    <state width="1311" height="183" key="GridCell.Tab.0.center" timestamp="1591788888688">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.left/55.27.1311.741@55.27.1311.741" timestamp="1591786288399" />
-    <state width="1311" height="183" key="GridCell.Tab.0.right" timestamp="1591786288400">
+    <state width="1311" height="183" key="GridCell.Tab.0.center/55.27.1311.741@55.27.1311.741" timestamp="1591788888688" />
+    <state width="1311" height="183" key="GridCell.Tab.0.left" timestamp="1591788888687">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state width="1311" height="183" key="GridCell.Tab.0.right/55.27.1311.741@55.27.1311.741" timestamp="1591786288400" />
+    <state width="1311" height="183" key="GridCell.Tab.0.left/55.27.1311.741@55.27.1311.741" timestamp="1591788888687" />
+    <state width="1311" height="183" key="GridCell.Tab.0.right" timestamp="1591788888688">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.right/55.27.1311.741@55.27.1311.741" timestamp="1591788888688" />
     <state x="243" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1591784314721">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
